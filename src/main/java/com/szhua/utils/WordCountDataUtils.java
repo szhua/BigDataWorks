@@ -83,6 +83,6 @@ public class WordCountDataUtils {
 
     public static void main(String[] args) {
         //generateDataToLocal("input.txt");
-        generateDataToHDFS("hdfs://hadoop001:8020", "hadoop", "/wordcount/input.txt");
+        generateDataToHDFS("hdfs://home:8020", "root", "/wordcount/input.txt");
     }
 }
