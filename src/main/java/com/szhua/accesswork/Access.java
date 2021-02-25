@@ -18,7 +18,6 @@ public class Access implements Writable {
 
     }
 
-
     public Access(String ip, long up, long down) {
         this.ip = ip;
         this.up = up;

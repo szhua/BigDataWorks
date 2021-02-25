@@ -1,0 +1,1000 @@
+HBase	Flink	Hadoop
+Storm	Spark	Flink	Hive	Hadoop	HBase
+Flink	HBase	Hadoop
+Hadoop	Storm	Hive	HBase
+HBase	Hadoop	Spark	Flink
+HBase
+HBase	Spark	Storm	Hive	Flink	Hadoop
+Storm
+HBase	Flink	Hive	Storm	Hadoop	Spark
+Storm	HBase	Hadoop
+Hive	Storm	Hadoop	Spark
+Flink
+Hadoop	HBase	Storm
+HBase	Hive	Storm	Hadoop	Spark	Flink
+Flink	Hadoop	HBase
+Hadoop	Flink	HBase	Spark	Hive	Storm
+Flink	Storm	Hive	HBase
+Storm	Hadoop	HBase	Flink	Hive	Spark
+Spark	Hive	Storm	Flink
+Spark
+Hive	Flink	Spark	Storm	HBase	Hadoop
+Hadoop	HBase	Storm	Flink	Spark
+Flink	Hive
+Flink	Hadoop	Hive
+Hadoop	Flink	Storm	Hive	Spark	HBase
+Flink	Hive	Storm	Spark
+Storm	HBase	Spark	Hadoop	Flink
+Storm	HBase	Spark
+Spark	Hive	Hadoop	Flink
+Flink	Hadoop	Hive	Spark	Storm	HBase
+Spark	HBase
+Hadoop	Flink	Storm	Hive	Spark	HBase
+Storm	Flink	HBase
+Hive	HBase	Spark	Storm	Flink	Hadoop
+Storm
+Hadoop	HBase	Storm	Flink	Hive
+Storm	Flink	Hive	HBase
+Flink	Hive	Storm	HBase	Spark
+Spark
+Storm
+HBase	Storm	Hadoop	Flink	Spark
+Flink	Hadoop
+HBase
+Flink	Spark	Hive	HBase	Storm
+Spark	Hive	Flink
+Flink	Hadoop	Spark	Hive	Storm	HBase
+Flink	HBase	Spark	Storm
+Hadoop
+Flink
+Hive	Hadoop
+HBase	Hive	Flink
+HBase
+Spark	Hadoop	HBase
+HBase	Flink	Spark	Hive
+HBase
+Storm	Hive	Hadoop
+Storm	Spark	Hive	HBase	Flink
+Storm	HBase	Hadoop	Hive	Flink	Spark
+HBase	Hadoop	Storm
+Flink	Hadoop
+Spark	HBase
+Hive	Storm	Flink	Hadoop	Spark	HBase
+Hive	Hadoop
+Flink	Hadoop
+Hadoop	Spark	Flink
+Spark
+Hive
+Hive
+Hadoop	Hive	Storm	Spark
+Hadoop	Storm	Spark	HBase	Flink
+HBase	Flink	Spark	Hive	Storm
+Spark
+Hadoop	Spark	Hive	HBase	Flink
+Hadoop	Hive	Storm	Flink	HBase	Spark
+Hive
+Hive	Hadoop	Storm	Flink
+Spark	Hive
+HBase	Flink
+Storm
+Spark	Storm	Flink
+Spark	Storm	Hive	Flink	Hadoop
+Flink	Hadoop	Spark	Hive	HBase
+Storm	Hive	Hadoop
+Hadoop
+Hadoop	HBase	Flink	Spark	Hive	Storm
+Flink	HBase	Hadoop	Spark
+HBase	Flink	Storm
+Storm	Hive	Flink	Hadoop	Spark
+Storm	Spark	HBase	Hadoop
+Hive	Flink	Hadoop	Spark
+Flink
+Spark	Storm	HBase	Hive	Flink
+Storm	Hadoop	HBase	Flink	Hive	Spark
+Hadoop	Flink
+Hadoop	Hive	Storm	Flink	Spark
+Spark	Hive
+Flink	Hive	Storm
+Hive	Hadoop	HBase
+Hive	Hadoop	Flink	Storm	Spark	HBase
+Flink	Hive	Storm	Hadoop	HBase
+Spark
+Hive	Flink	Storm	Hadoop	HBase
+Hive	Hadoop	Flink
+Storm
+Hive	Spark	Storm
+Flink
+Flink	HBase	Spark	Storm
+Hive	Hadoop	Storm
+Spark	Flink	Storm	HBase	Hive
+Flink	Hive	Spark
+Storm	Hive	Spark	Hadoop	HBase
+Hive	Spark	Storm	HBase	Flink	Hadoop
+Storm	Spark	Flink
+Storm	HBase	Spark	Hadoop
+HBase	Storm	Hadoop	Spark	Hive	Flink
+Storm	Spark	Flink	HBase	Hive	Hadoop
+HBase	Hive	Flink	Storm	Hadoop	Spark
+Spark	HBase	Storm	Flink
+Hive
+Hive	Flink	HBase	Spark
+Spark	Hive	Hadoop	HBase	Flink	Storm
+Hadoop	Hive	Flink	Storm
+HBase	Storm	Hive
+Storm	Flink	Hadoop	Hive	Spark	HBase
+Hive	Hadoop	Storm	Spark
+Storm	Hadoop	Spark	Hive	Flink	HBase
+Spark	Flink	HBase	Hadoop	Hive	Storm
+Hive	Flink	Hadoop	Storm
+Hive	Spark	HBase
+Flink	HBase	Storm	Hadoop
+Storm	Flink	Spark	Hive	HBase
+Hadoop	HBase	Storm	Hive	Spark
+Flink	Spark	Hadoop	HBase
+Flink	Spark	Hive	Hadoop
+HBase	Spark	Hadoop	Storm	Hive	Flink
+Hive	HBase
+Hive	Hadoop	Flink	Spark	HBase	Storm
+Hadoop	Flink	Storm	HBase
+Storm	Hadoop
+Storm	Hive	Spark
+Spark	Hadoop	Hive
+Hive	Spark	Storm	Hadoop
+HBase	Flink	Spark	Hadoop
+Storm	Spark
+Hadoop	Hive	Flink	Spark	HBase	Storm
+Hive	Hadoop	Storm	HBase	Spark
+Hadoop
+Hive	Storm	HBase
+Spark
+Storm
+Hadoop	Storm	HBase	Hive
+HBase	Hadoop	Storm	Hive	Spark	Flink
+HBase	Hive
+HBase	Storm
+Hadoop
+HBase	Flink
+HBase	Flink	Hive
+HBase	Flink
+Hive	HBase
+Flink	HBase	Hadoop
+HBase	Spark
+Hive
+Storm	Spark
+Hadoop	Flink	Hive	Spark
+Spark	Hadoop	HBase	Storm
+HBase	Spark	Hive	Flink	Hadoop	Storm
+Storm	HBase	Flink	Spark	Hadoop	Hive
+Hadoop	Hive	Spark	HBase
+Spark	Storm	Hive	Hadoop	HBase	Flink
+Hadoop
+Storm	Flink	HBase	Hadoop	Spark	Hive
+Hadoop	Storm
+Spark	HBase	Storm	Flink	Hive	Hadoop
+HBase	Hive	Flink	Storm
+Flink	Hadoop	Storm	Spark
+Spark	Hadoop	Flink	HBase
+Storm	Spark	HBase
+Hive	Flink	Storm	Hadoop	Spark	HBase
+Hadoop	Storm	Flink	HBase
+Flink	Hive	Storm	Spark	HBase	Hadoop
+HBase	Storm	Spark
+Storm	Flink	Spark	Hive
+Spark	Hadoop	Hive	Storm	Flink
+Storm	Spark	HBase	Hadoop	Hive	Flink
+Spark	Hadoop	Storm
+Flink	Spark
+HBase	Flink	Hive	Hadoop	Spark
+Flink	Hadoop	Storm
+Spark	Hive	Flink	Storm
+Storm	Flink
+HBase	Storm	Hive
+HBase	Hadoop	Flink	Spark
+Storm	Hive	Hadoop	Spark
+HBase	Hadoop
+HBase	Hive	Storm	Hadoop	Flink
+Spark	HBase	Hive	Flink	Storm	Hadoop
+HBase	Hive	Spark	Storm	Flink	Hadoop
+HBase
+Spark	Hive	Flink
+Spark	Hadoop	HBase
+Storm	Flink	Spark	Hive	Hadoop
+HBase	Flink	Hadoop
+Spark	Hive	Flink	HBase
+Hive
+Hive
+HBase
+HBase	Hadoop	Flink	Spark	Storm	Hive
+HBase	Spark	Hive
+Flink
+Flink	Storm	Spark	HBase
+HBase	Spark	Hadoop	Hive	Flink	Storm
+Storm	Hadoop	Hive	Spark	HBase
+Flink	HBase	Hadoop	Storm
+Hadoop	Flink	Hive	Spark
+Storm	HBase	Hadoop	Hive
+Storm	Flink	Hadoop	Spark
+HBase	Hadoop	Storm
+Flink	Hadoop	Spark	HBase	Hive
+Hadoop	Hive
+Storm	Hive	Flink	Spark	Hadoop	HBase
+HBase	Hadoop
+Hive	Spark	Hadoop	HBase	Flink	Storm
+Storm	HBase	Hadoop	Spark
+HBase	Hadoop
+Hadoop	Hive
+Spark
+Spark	Flink	Hive
+Flink	Spark
+Storm	HBase	Flink	Hadoop
+HBase
+Hadoop	HBase	Flink	Spark
+Spark	Storm	Hive
+Hive	Storm	HBase	Hadoop	Flink	Spark
+Hadoop	Spark	HBase	Storm	Hive
+HBase	Hive	Storm	Hadoop	Spark
+Hadoop	Storm	Flink	Spark
+HBase	Hadoop
+Flink
+Hive	HBase
+Spark	Hive	Flink	HBase	Storm	Hadoop
+Storm
+Flink	Hadoop	Spark	Hive
+Storm	Hive	HBase	Flink
+Hive
+Flink	HBase	Hadoop	Storm
+Storm	HBase	Hadoop
+Flink	Hadoop	Spark	Hive
+Spark	Hive
+Storm	Spark
+Flink	Hive	Spark	Hadoop	HBase	Storm
+Spark	Hadoop	Hive
+Hive	HBase	Spark	Storm
+Hive	Spark	HBase	Hadoop	Storm
+Flink	Hadoop	Spark	HBase
+Hadoop
+Hive	Storm
+Flink	Storm	Spark
+Spark	Storm	Hadoop	HBase	Hive	Flink
+Storm	Hadoop	Hive
+Storm	Hive	HBase	Spark	Hadoop
+Flink	Storm
+Hive	Hadoop	Flink	Storm
+Flink	HBase	Hadoop
+Flink	HBase	Hadoop	Hive	Spark	Storm
+Flink	Storm
+Flink	Hadoop	Storm	Hive
+Hive	Hadoop
+HBase	Spark	Flink	Hive	Hadoop
+Flink	Hive	Storm
+Hive	Storm	HBase	Flink
+Storm
+HBase	Flink	Hadoop	Hive	Storm
+Hive	Flink	Spark	Hadoop	Storm
+Hadoop	Flink	Hive	Storm	Spark	HBase
+Hadoop	HBase
+Storm	HBase	Spark	Flink
+Hive	Flink	HBase	Hadoop	Spark
+Spark
+Hadoop	Storm	HBase	Spark	Hive
+HBase
+Spark	Flink	HBase	Hadoop
+Spark	Hadoop
+Spark	Hive	Flink	Hadoop
+Flink	Spark	HBase	Storm	Hadoop
+Storm	Hive
+Hive	Spark	Hadoop	Storm	Flink
+Storm	HBase	Spark	Hive	Flink
+Hive	HBase	Spark	Storm	Flink
+Hadoop	Spark
+Hadoop	Flink
+Hadoop
+Spark	HBase	Flink	Hadoop
+Flink	HBase	Spark	Hadoop	Storm
+Storm	Flink	Spark	Hive
+Flink	HBase	Spark	Storm	Hadoop
+Spark	Hive	HBase	Flink	Hadoop	Storm
+Hadoop	Storm
+Hadoop	Hive
+Hadoop
+HBase	Hive	Hadoop	Storm	Flink
+Storm	Hadoop	Flink	Hive	Spark	HBase
+Hive	Storm	HBase	Spark	Flink	Hadoop
+Spark	Storm	HBase	Hive
+Hive	Hadoop	Storm
+Spark	Flink
+HBase
+HBase	Flink	Hadoop	Hive	Spark
+HBase	Storm	Hive	Flink	Hadoop
+Flink	HBase	Spark
+Spark	Hadoop	Flink
+HBase	Hadoop
+Spark	HBase	Flink	Storm	Hadoop
+Flink
+Hadoop	Hive	Storm
+HBase	Hive	Storm	Hadoop	Flink
+Hadoop
+Flink	Storm	Hadoop	Hive
+Storm	HBase	Hive	Spark	Hadoop	Flink
+Hadoop	Flink	Spark	HBase	Storm	Hive
+Hive	Hadoop	Storm	HBase
+HBase	Flink	Storm	Hadoop	Spark	Hive
+Spark	Hive	Storm	Hadoop
+Flink	Hadoop
+Hive	Hadoop	Flink
+Storm	Hadoop
+Storm
+Flink	Hadoop	Spark	HBase	Storm	Hive
+Spark	Flink	HBase
+HBase	Hadoop	Flink	Spark	Storm
+Hadoop	HBase
+Hadoop	Hive	Storm	HBase	Spark	Flink
+Hive	Hadoop
+Flink	Hadoop	Storm
+Hadoop	Storm	Spark	HBase
+Flink	HBase	Spark	Storm	Hive	Hadoop
+Storm	HBase
+HBase	Storm	Flink	Spark	Hadoop	Hive
+Flink
+Spark	Storm	Hadoop
+Spark	Flink	Hadoop	HBase	Hive
+Storm
+HBase	Storm
+Spark
+Flink	Spark	HBase	Hadoop
+HBase	Spark	Storm	Hive	Flink	Hadoop
+Storm	HBase	Hadoop	Spark	Hive	Flink
+Flink
+Flink	Spark	HBase	Hive
+Flink	Hadoop	Spark	Storm
+Hive	Spark	Flink
+Hadoop	Hive
+HBase
+Storm	Hive	Hadoop	HBase	Flink
+HBase	Hadoop	Spark	Storm	Flink	Hive
+Storm	Hive	Spark	HBase	Hadoop
+Hive
+Hive	Storm	HBase
+Hadoop	HBase	Spark	Flink	Storm	Hive
+Spark	Storm	HBase	Hive
+Spark	Hadoop	HBase	Hive	Storm
+Hive
+Flink	Hadoop	HBase
+Hadoop	Flink	Hive
+HBase
+Hadoop
+HBase	Spark
+Flink	Storm
+Hadoop
+Flink	Storm	Hive	Spark	Hadoop
+Hive	Hadoop	HBase	Flink	Storm	Spark
+Storm	Hadoop	HBase	Spark	Flink
+Hive	Storm	HBase
+Hadoop	Storm	Hive	Spark	Flink	HBase
+Hadoop	Hive
+Flink	Storm	Spark	Hadoop
+Hadoop	Storm	HBase
+Flink	Hive	Hadoop
+Hive	Storm	Hadoop	HBase	Flink
+Hive	HBase	Storm	Flink
+Hadoop	Storm
+Spark	Storm	Hive	HBase	Flink
+Hadoop
+Hadoop	Storm
+Storm	Hadoop	Flink
+HBase
+HBase	Hadoop	Flink	Hive	Storm
+Spark
+Hadoop	Spark	Hive	Storm
+Hadoop
+Storm	Flink	Hive	Hadoop
+Storm	Hive
+Hive	Spark
+Hive	Spark	Flink	Hadoop
+Hadoop	Spark	Flink	HBase
+Flink	Spark	Storm	HBase	Hadoop
+Flink	HBase	Hive	Spark	Storm
+Hive	Storm	Spark
+Flink	Storm	Hive
+Spark	Hadoop
+Storm	HBase	Spark	Hadoop
+Hive	Hadoop	Spark	HBase	Storm	Flink
+Spark	Flink
+HBase	Storm	Flink	Hive	Hadoop	Spark
+Flink
+HBase	Spark
+Flink	Hive
+Flink	Spark
+Storm	Spark	Flink	Hadoop
+Storm	Hadoop	Flink
+Storm	Spark	Hive	Hadoop	HBase	Flink
+Flink	Spark	Hadoop	HBase
+Spark	HBase	Flink	Hive	Hadoop
+Spark	Hadoop
+Hadoop	Spark	Hive	Flink
+HBase	Hive	Hadoop	Storm
+Hive	Flink	Storm	HBase
+Storm
+Spark	Storm	Flink	HBase	Hadoop	Hive
+Hadoop	HBase	Flink	Hive
+HBase
+Flink	Hive
+HBase	Flink	Hadoop	Hive	Storm	Spark
+Hadoop	Storm	Flink
+Spark	Hadoop	Flink	HBase	Storm
+Flink	Spark	Hive
+Hive	Storm	Hadoop	Flink	Spark	HBase
+HBase
+Spark	Hive	Flink	Storm	Hadoop
+Hadoop	Spark
+HBase	Hadoop	Flink	Spark	Hive
+HBase	Flink	Spark	Storm
+Hadoop	Flink	Hive	Spark	Storm
+Flink	Hadoop	Storm
+Storm	Spark	Hive
+HBase	Spark	Hadoop	Storm	Flink
+Spark	Flink	HBase	Hive	Storm	Hadoop
+Hive	Spark	Hadoop	Flink	HBase
+Hadoop	HBase	Spark	Hive	Storm
+Storm	Spark	Hive	Hadoop	HBase
+HBase
+Storm
+Hive	Storm	HBase	Spark	Hadoop	Flink
+Hadoop
+Storm	Hive	Hadoop	Spark	Flink
+HBase	Flink	Storm	Hive	Hadoop	Spark
+Spark	Storm	Flink	Hadoop
+Hadoop	Spark	Flink	HBase
+HBase
+Storm	Hadoop	HBase	Hive
+Storm	Hive	HBase
+Spark
+HBase
+Spark	Flink	HBase	Hadoop	Storm	Hive
+Storm
+Hadoop	Hive	Flink	HBase
+Flink	HBase	Storm	Spark	Hadoop
+Flink	Storm	Hive	Hadoop
+Hadoop	Spark	Hive
+Spark	Hadoop
+Hadoop	HBase	Spark	Hive	Flink
+Flink	Hadoop
+Hive	Spark
+HBase	Flink	Storm	Spark
+Flink	Spark	Hive	HBase
+Flink	Hadoop	Spark	HBase	Storm
+Hadoop	Spark
+Flink	Spark	HBase
+HBase	Hive	Hadoop	Flink
+Hive	HBase	Flink	Hadoop	Spark	Storm
+Flink	Storm	Hadoop	HBase	Hive	Spark
+Spark	Hadoop	HBase	Hive	Flink	Storm
+Hadoop	Spark	Storm	HBase	Hive	Flink
+Flink	Spark	Storm
+Flink	Storm	HBase	Hadoop	Hive	Spark
+Flink	Spark	Hadoop	Storm
+HBase	Hive	Spark	Hadoop
+Flink
+Hadoop	Spark	Flink	Hive	HBase
+Hadoop	Spark	Storm	Hive	Flink	HBase
+Hive
+Hive	Hadoop	Storm	HBase	Spark
+Hadoop	Storm	HBase
+Hive	Spark
+Hive	Storm	HBase
+Storm	Flink
+Flink	Spark	Storm	HBase	Hive	Hadoop
+Hadoop	Flink	Hive	Storm
+Flink
+Hadoop	Flink	HBase	Hive	Spark
+Flink
+Storm	Flink	Spark	HBase	Hadoop	Hive
+Hadoop	Flink	Spark
+Hive
+Hive
+Flink	Storm	Hadoop	HBase	Spark	Hive
+HBase	Flink
+Hive	HBase	Hadoop	Storm	Spark
+Flink	Spark	Storm	HBase
+Flink	Hive	Spark	Hadoop	Storm	HBase
+Hive	Hadoop
+Spark	Hive
+HBase	Flink	Storm	Spark
+Flink	Hadoop	Hive	Storm	HBase
+Hadoop	Storm	HBase	Flink
+HBase	Hive	Storm
+Flink	Hadoop	Spark
+Flink
+Hadoop
+Spark	HBase	Hive
+HBase
+HBase
+Hive	Flink
+Hive	Hadoop	Spark	HBase
+Hive	HBase	Spark	Flink
+HBase	Flink
+Flink
+Flink	HBase
+Flink
+Spark	Flink	Storm
+Hadoop	Storm
+Hadoop	Storm	Hive
+Flink	Hive	Spark	Hadoop	Storm	HBase
+HBase	Hive	Spark	Storm	Flink
+Flink	Hadoop	Storm
+Storm
+Hadoop	Storm
+Spark	Hadoop	Hive	Flink
+Storm
+Hadoop
+HBase	Hive	Hadoop	Flink	Spark	Storm
+Flink	Spark	Hive	HBase
+Hive	Hadoop	Flink	Storm	HBase
+Hive	Spark	Hadoop
+Hadoop	Spark	Flink	Hive	HBase
+Storm	HBase	Hive	Flink	Spark	Hadoop
+Hadoop	Spark	HBase	Hive	Storm	Flink
+Spark	Storm	Hive	Hadoop
+Hadoop	Flink	Spark	Storm
+Hadoop	Flink	HBase	Spark	Hive
+HBase	Storm	Flink
+Spark	Hive	Storm	Flink	HBase	Hadoop
+Flink	Spark	HBase	Hadoop	Hive
+HBase	Storm	Flink
+Flink	Hadoop	HBase
+Hadoop	Flink	Hive
+Hadoop
+Flink	HBase	Hadoop	Spark
+Hive
+Hadoop	Flink
+Spark	Storm	Flink
+Hadoop	Flink	HBase	Hive	Storm
+Hadoop	Spark	Hive	HBase	Flink
+Spark	Hadoop	Storm
+HBase	Hadoop	Storm	Spark	Hive	Flink
+Spark	Storm	Hadoop	HBase
+Spark
+Hadoop	Spark	Hive	Flink
+Hive	HBase	Spark	Storm	Flink	Hadoop
+Flink	Spark	HBase	Hadoop	Storm
+Hive	Storm	Hadoop	Spark	Flink	HBase
+Flink	Hive	Spark
+Storm	Hadoop
+Hive
+Storm	Spark	Hive	Flink	Hadoop	HBase
+Hadoop	Hive	Storm	HBase	Spark
+HBase
+HBase	Flink	Hive	Storm	Spark
+Hadoop	Flink	HBase	Storm	Spark	Hive
+Flink
+Flink
+Hive	Hadoop	Flink	HBase	Spark
+Spark	Storm	Hadoop
+Spark	Storm	Hadoop
+Flink	Spark	Hadoop	HBase	Storm	Hive
+Hive	Storm	Flink
+Hadoop
+Spark	Hive	Flink
+Spark	Storm
+Flink	Hive	Hadoop	Spark	HBase	Storm
+HBase
+Hive
+Storm	Hadoop	Spark	Flink	HBase	Hive
+Storm
+Flink	Spark	Hive	HBase	Hadoop
+Hive
+Hive	Flink	HBase	Spark	Storm
+Flink	Hadoop	Spark	Storm	Hive	HBase
+Storm	Flink	Spark
+Hadoop	HBase	Spark	Flink
+Flink	HBase
+HBase	Hadoop	Spark	Flink	Hive	Storm
+Storm	Flink	Spark	Hive	Hadoop	HBase
+Spark	Storm	Hive
+Spark	Hadoop	HBase
+Hadoop	Storm	Flink	Hive
+HBase
+Flink
+Hive
+HBase
+Storm	HBase	Spark	Hadoop	Flink
+Storm	Flink	Hadoop
+Flink	Hive	Spark	Storm	Hadoop	HBase
+HBase	Flink	Hadoop	Spark
+Hive
+Spark
+Spark	HBase	Storm
+Spark	Storm	HBase	Flink	Hive	Hadoop
+HBase	Spark
+Hive	Storm	Flink	HBase	Hadoop	Spark
+Hive
+Hive
+Flink	Spark	Storm
+HBase	Spark	Flink	Hadoop	Hive
+Storm	Flink	Spark	Hive	Hadoop	HBase
+Hadoop	Spark	Flink
+Flink	Storm	HBase	Hadoop	Hive
+Spark	Storm	Flink	Hive	HBase	Hadoop
+Hive	HBase	Hadoop	Flink
+Flink	HBase	Hive	Storm	Spark
+HBase
+Spark	Flink	Hive	Storm
+Storm	HBase	Spark	Hadoop	Flink	Hive
+HBase	Hive	Spark
+Flink	Hadoop	Spark
+Storm	Flink	Hive	HBase
+Storm
+Hadoop	Flink	Storm	Hive
+Storm	Hadoop	Hive
+HBase	Storm	Hive	Spark	Flink
+HBase	Storm	Spark	Hive	Hadoop	Flink
+Spark	Hive
+Hadoop	Flink	Storm	Hive	Spark
+Hive	Storm	Hadoop	Flink	HBase	Spark
+HBase	Flink	Storm
+Hive	Storm	Flink	HBase	Hadoop
+HBase	Spark	Hive	Storm	Hadoop
+HBase
+Storm	Hive	Hadoop	HBase	Spark
+Hadoop	Hive	Flink	Spark	Storm
+HBase	Flink
+Hadoop	Storm	HBase	Hive	Spark
+HBase	Hive	Spark	Flink	Hadoop
+Spark
+Flink	Spark	Hive	Storm	HBase
+Hive	Storm
+Hive	Flink	Storm
+HBase
+Hive	Hadoop	Storm	Spark
+Flink	Hadoop
+Flink	Hadoop	HBase
+Flink	Hadoop	Hive	HBase	Spark
+HBase	Hadoop	Flink	Hive	Storm
+Hadoop
+Hadoop	Spark	Storm	Flink	Hive	HBase
+Flink	HBase	Hive	Storm	Spark
+Storm
+Spark	Hive	HBase	Hadoop
+HBase	Spark
+Spark	Storm
+Hive
+Storm	Spark	Hadoop
+HBase
+Flink
+Flink	Hadoop	Storm	HBase	Hive
+Hadoop	HBase	Spark
+Hadoop
+Flink	HBase	Hive	Spark	Storm	Hadoop
+HBase	Storm	Hive
+Flink	Hadoop	HBase	Spark
+Storm
+Flink	Storm	Spark	Hive	Hadoop
+Storm
+Flink	Storm	HBase	Hive
+Hadoop
+Storm	Spark
+Hadoop	Flink
+HBase	Hadoop	Storm	Hive	Spark
+Flink	Spark	Storm	Hive	Hadoop
+Spark	Storm	Flink
+HBase	Storm	Flink	Spark
+Flink	Hive
+Flink	Storm	Hive	Hadoop	HBase
+Flink	HBase	Hive	Hadoop	Spark	Storm
+HBase	Spark	Hadoop
+Flink	Spark	Storm
+Hive
+Hive
+Hive	Flink	HBase
+Storm	HBase	Hive	Spark	Hadoop	Flink
+Hadoop
+Hadoop	Storm	Flink
+HBase	Flink
+Storm
+HBase	Hadoop	Hive	Storm	Spark	Flink
+HBase
+HBase	Spark	Hive	Hadoop	Flink	Storm
+Flink	HBase
+Spark	HBase	Hadoop	Flink	Storm	Hive
+Flink
+Flink	HBase	Storm	Hive	Spark
+Hadoop	HBase
+Hadoop	Hive	Flink	HBase
+HBase	Storm	Spark	Hive	Flink
+Spark	Storm	HBase
+Hive	HBase
+Spark	Hadoop
+HBase	Spark	Hadoop	Hive	Flink	Storm
+Hadoop	Hive	HBase	Flink	Storm
+Hadoop	Spark	Storm
+Hive	Flink	Spark	Storm	HBase
+Hive	Flink	Storm	Spark	Hadoop	HBase
+Hadoop
+Hive	HBase	Spark	Flink	Hadoop
+Hive	Hadoop	HBase
+Storm
+Spark	Hive	Storm
+HBase	Hive	Flink
+Hadoop	Storm	Spark	Hive	HBase
+Hadoop	HBase	Flink	Storm	Hive
+Spark	Flink
+Storm	Hive
+Hadoop	HBase	Spark	Flink
+Hadoop	Hive	Spark	Flink
+Hadoop	Storm	Hive
+HBase	Hive
+HBase	Flink	Spark	Hive	Storm
+Spark	HBase
+Hive	Hadoop	Storm
+Flink
+Hive	Storm	Flink
+Storm	Hive	Spark
+Hive	Spark
+HBase	Hadoop	Storm
+Storm
+HBase	Flink	Hive	Spark	Hadoop	Storm
+Hive	Flink
+HBase	Hive
+Flink
+Hadoop	Spark	Storm	Hive	HBase	Flink
+Spark	Hive	Storm	HBase
+Storm	Hive	HBase	Spark	Hadoop	Flink
+Hive
+Storm	Hadoop	Hive
+Flink	Hive	Hadoop	Spark	Storm	HBase
+Spark	Flink	Hadoop	HBase	Hive	Storm
+Flink
+Storm	Hive
+Storm	Hive	HBase	Spark
+Hive	Spark	Hadoop
+Hive
+Storm
+Flink	HBase	Hive
+HBase	Hive
+Flink	Spark	Hive	Hadoop	HBase	Storm
+Hadoop	Spark	HBase	Storm	Flink	Hive
+Storm	Hadoop
+Hive	Spark
+HBase
+Spark	Hive	HBase	Storm
+Storm	Spark
+Spark	HBase	Hive	Storm
+Spark	Flink	Storm	HBase	Hive	Hadoop
+HBase	Hive	Storm	Spark	Flink	Hadoop
+Storm	Hadoop	Spark	Hive	Flink
+Spark	Storm	Flink	HBase	Hive	Hadoop
+Storm	Hadoop	Spark	HBase	Hive
+Flink	Hadoop	HBase
+Storm	Hadoop	Spark	Hive	Flink	HBase
+HBase	Hadoop	Storm	Spark
+HBase	Spark	Hive
+Hive
+Hadoop	Flink	Spark	Hive
+Flink	Hive	Hadoop	Storm
+HBase
+Hive
+Flink	Hadoop	HBase	Hive
+Storm	Hadoop	Spark	Hive	HBase	Flink
+Hive
+Storm	Hive
+Hive	Storm	Spark	HBase	Flink	Hadoop
+Hive	Flink	Spark	Storm	HBase	Hadoop
+Flink	Hive	Spark	HBase
+Hadoop	HBase	Spark	Storm
+HBase	Hadoop
+Hive	HBase
+Storm	Hive
+Spark	HBase	Flink
+Hadoop	Storm	Flink	Hive	HBase	Spark
+Hadoop
+Storm	Hadoop	Spark	Flink	HBase	Hive
+Storm	Hive
+Hadoop	Flink
+Hive	Flink	HBase	Spark
+Spark	Storm	HBase	Flink	Hive	Hadoop
+Flink	Hadoop	Spark	HBase
+Hive	Flink	Storm	HBase	Hadoop
+Hadoop	HBase	Flink
+Hadoop	Spark	Hive	Storm	Flink
+Hive	Flink	Storm	Spark	Hadoop
+Flink	Storm	Hive	Hadoop	HBase
+HBase	Hadoop
+Storm
+Storm
+Storm	Flink	HBase	Hadoop
+Hadoop	Storm
+Storm	Hadoop
+Hadoop	Storm	HBase	Hive	Spark	Flink
+Flink	Hadoop	Hive	Spark
+HBase	Spark	Hive	Storm
+Hive	HBase	Hadoop	Storm
+Storm	Hive
+Spark	Storm	Hadoop	Flink
+Spark	Storm	Hive	Flink	HBase	Hadoop
+Spark	Flink	HBase
+Hive	Spark	Hadoop	Storm	Flink	HBase
+Hive	Storm	Flink
+Hive	Flink	HBase	Storm	Spark	Hadoop
+Hadoop	Flink	HBase
+Storm	Flink	Hive	HBase	Hadoop
+Spark	Storm	HBase
+Hadoop	Hive
+Storm	Hadoop
+Storm	Hadoop	Spark
+Flink	HBase	Spark
+Flink
+Spark	HBase	Hadoop	Storm
+HBase	Spark	Hadoop	Storm	Hive
+Flink	Hadoop	HBase	Storm
+Hadoop	HBase	Storm	Spark	Flink	Hive
+Flink	Spark	Hive	Storm
+Flink	Spark	Hadoop
+HBase	Hadoop	Flink	Storm
+Spark	Flink	HBase	Hive	Hadoop
+HBase
+Storm	Spark	Hadoop	Hive
+Hive	Spark
+Storm	Hadoop
+Spark	Hive
+Spark	Hadoop
+HBase	Storm
+Hadoop
+Spark	Storm	Hive	Hadoop	HBase
+Storm	Hadoop
+Storm	Flink	HBase	Hive	Hadoop
+Spark	HBase	Hadoop	Storm	Flink	Hive
+Spark	Hive	Storm	Flink	HBase
+Spark	Hive	HBase	Storm
+Flink	Hive	Hadoop
+Flink	Hadoop
+Hive
+Hadoop	Storm	Hive	Flink	HBase
+Hadoop	Flink
+Flink	Hive
+Spark	Flink	Hive	Hadoop
+Hadoop	Hive	Flink	Spark
+Storm	Spark
+Storm	HBase	Hadoop	Spark	Flink
+Hadoop	Storm	Flink	HBase	Hive
+HBase
+Storm	HBase	Flink
+Hadoop	Flink
+HBase	Flink	Hive	Spark
+Flink
+Flink	HBase	Hive	Spark	Storm
+Flink	HBase	Hadoop	Hive
+Hadoop	Storm	Hive	HBase	Flink
+Storm	Hadoop
+Flink	HBase	Spark	Storm
+Flink	Storm	HBase	Hive	Spark
+Hive	Storm	Spark	HBase	Hadoop
+Flink	Storm
+Flink	HBase	Hive	Storm
+HBase	Storm	Hive	Spark	Hadoop	Flink
+Flink	Hive	Spark	HBase	Storm	Hadoop
+Flink	HBase	Spark
+HBase	Spark
+Flink	Hive	Storm	Spark
+Hadoop	HBase	Storm	Spark	Hive	Flink
+Hive	HBase	Storm	Hadoop
+Spark	Hive	Flink	Storm	Hadoop
+Flink	Hadoop	Spark	HBase	Storm	Hive
+Flink	HBase	Storm	Hadoop	Hive	Spark
+Hive	Storm	Flink	Hadoop
+HBase	Hadoop	Spark
+Hadoop	Hive	HBase	Storm
+Hive	Storm	Spark	Hadoop
+Hadoop	Flink	Spark	Storm	HBase
+Hadoop	Hive	Storm	Flink
+Spark	Flink	Hadoop	Hive	HBase
+Spark	Hive
+Hadoop	Spark	Flink	Storm	Hive	HBase
+Storm	Hive	Hadoop
+Flink	Hive	Spark	Storm	Hadoop	HBase
+Hadoop	Flink	Storm	Hive	Spark
+Spark	Hive	HBase	Hadoop	Flink
+Flink
+Storm	HBase	Hadoop
+Hadoop
+Flink	Hive
+Hadoop	Spark	HBase	Hive	Flink
+Hive	Spark	HBase	Flink	Hadoop	Storm
+HBase	Hadoop
+Hive	Spark
+Flink	Spark	HBase
+Flink	Hive	Storm	Hadoop	Spark
+Storm	Hadoop	HBase	Spark
+Spark
+Hadoop	HBase
+Spark	Hive	Flink	Storm
+Hive	HBase	Flink	Spark	Hadoop
+Spark	Hive	Storm
+Storm	Flink	Spark	Hive	Hadoop	HBase
+Storm	Flink	Spark	Hive	Hadoop	HBase
+HBase
+HBase
+Flink	Hive	Hadoop	HBase
+Hive	HBase	Flink	Spark	Storm	Hadoop
+Spark	Storm	Hive
+Storm	Hive	HBase	Flink
+Hadoop	HBase	Spark	Flink	Storm
+Storm
+Spark	Flink	Storm	Hive
+HBase	Spark	Flink	Storm	Hadoop
+Flink
+Hadoop	HBase
+Spark	Storm	Hadoop	Flink	Hive
+Flink	Storm	HBase	Hadoop
+Storm	Hadoop	Flink
+HBase	Flink	Hadoop
+Flink	Storm	Hive
+Flink	HBase
+Flink	Hadoop
+Hive	Hadoop
+Hadoop	Spark	Flink	HBase	Storm
+Hive	Flink	Spark	Storm
+Spark	Hadoop
+Hadoop	HBase	Flink	Hive	Storm	Spark
+Hadoop	Spark	Flink	HBase	Storm	Hive
+Storm	Spark
+Storm	Flink	HBase	Hive	Hadoop	Spark
+Flink	HBase	Hadoop	Hive
+HBase	Hadoop	Flink	Spark	Hive
+Spark	Flink	Storm	HBase
+Spark	Hive	Flink	HBase	Hadoop	Storm
+Storm
+Spark	Hadoop	HBase	Storm	Flink
+Hadoop	Spark	Storm	HBase	Hive
+Spark
+Storm	HBase
+Hadoop	Flink
+Spark	Flink	Hadoop
+Hadoop	HBase	Hive	Spark	Storm
+Hadoop	Flink
+Hadoop	Storm
+Hadoop	Spark	HBase
+Flink	Spark	HBase	Storm
+HBase	Hive	Hadoop	Flink
+Hadoop	Hive	HBase
+Spark	HBase	Hive	Flink	Hadoop	Storm
+Storm	Flink
+Flink	Hadoop	Storm
+Hadoop	Storm
+HBase	Storm	Flink	Hive
+Spark	Storm	Hadoop	Flink	Hive	HBase
+HBase	Flink	Storm
+Flink	HBase	Hadoop	Storm	Hive
+Hive	Hadoop	Storm	Flink	HBase
+HBase	Flink
+Hadoop
+Hive	Spark
+Flink	HBase	Hadoop
+Flink
+Spark	Flink	Storm	Hive
+Hadoop	Hive	Spark	Flink	HBase	Storm
+Hadoop	Hive	Storm	Spark	HBase
+Storm
+Hive	Spark
+Storm	Spark
+Hadoop	HBase	Flink	Hive	Storm	Spark
+Hive	Storm	Flink
+Spark	Storm	Hadoop	HBase	Flink	Hive
+Hadoop	Flink	Storm	Spark
+Flink	HBase	Spark	Hadoop	Hive
+Flink
+Hive	Spark
+Spark
+HBase	Spark	Flink	Storm
+Spark	Hive	HBase	Storm	Flink	Hadoop
+Hive	Storm	HBase
+HBase	Flink
+Storm	Flink	Hive	Spark
+Flink	Hadoop
+Hadoop	Storm	Spark
+Storm	Hive	Flink	Spark	HBase	Hadoop
+HBase	Hive	Flink	Spark	Storm
+Spark	HBase	Hive	Storm
+Storm	Hive	Spark
+Spark
+Hadoop	HBase
+Flink	Storm	HBase
