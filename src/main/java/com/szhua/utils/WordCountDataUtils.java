@@ -21,6 +21,24 @@ public class WordCountDataUtils {
     public static final List<String> WORD_LIST = Arrays.asList("Spark", "Hadoop", "HBase", "Storm", "Flink", "Hive");
 
 
+
+    public static final List<String> WORD_LIST1 = Arrays.asList("Spark", "Spark", "Spark","Spark","Spark","Spark");
+
+
+    private static  String generateSlopeData(){
+        StringBuilder builder = new StringBuilder();
+        for (int i = 0; i < 1000000; i++) {
+            Random random = new Random();
+            int endIndex = random.nextInt(WORD_LIST1.size()) % (WORD_LIST1.size()) + 1;
+            String line = StringUtils.join(WORD_LIST1.toArray(), "\t", 0, endIndex);
+            if (i%1000==1){
+                line+="\t"+WORD_LIST.get(random.nextInt(WORD_LIST.size()-1));
+            }
+            builder.append(line).append("\n");
+        }
+        return  builder.toString();
+    }
+
     /**
      * 模拟产生词频数据
      *
@@ -50,7 +68,7 @@ public class WordCountDataUtils {
             if (Files.exists(path)) {
                 Files.delete(path);
             }
-            Files.write(path, generateData().getBytes(), StandardOpenOption.CREATE);
+            Files.write(path, generateSlopeData().getBytes(), StandardOpenOption.CREATE);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -82,7 +100,7 @@ public class WordCountDataUtils {
     }
 
     public static void main(String[] args) {
-        //generateDataToLocal("input.txt");
-        generateDataToHDFS("hdfs://home:8020", "root", "/wordcount/input.txt");
+        generateDataToLocal("/Users/szhua/IdeaProjects/BigDataWork/data/work/slope.txt");
+        //generateDataToHDFS("hdfs://home:8020", "root", "/wordcount/input.txt");
     }
 }

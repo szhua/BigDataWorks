@@ -16,18 +16,14 @@ import java.net.URI;
 public class WordCountApp {
 
 
-    private static final String HDFS_PATH = "hdfs://hadoop001:8020";
+    private static final String HDFS_PATH = "hdfs://home:8020";
     private static final String HDFS_USER = "hadoop";
 
     public static void main(String[] args) throws Exception{
-        String basePath =        System.getProperty("user.dir");
+        String basePath = System.getProperty("user.dir");
 
 
         if(args==null||args.length==0) {
-//             args = new String[]{
-//                     "/wordcount/input.txt",
-//                     "/wordcount/out/wordcout"
-//             };
              args = new String[]{
                      basePath+"/data/input.txt",
                      basePath+"/data/out/"
@@ -75,8 +71,9 @@ public class WordCountApp {
         //设置作业输入文件和输出文件的路径
         FileInputFormat.setInputPaths(job, new Path(args[0]));
       //  job.getConfiguration().set(FileOutputFormat.OUTDIR,outputPath.toString());
-      //  FileOutputFormat.setOutputPath(job, outputPath);
+        FileOutputFormat.setOutputPath(job, outputPath);
 
+        job.setNumReduceTasks(2);
 
         //将作业提交到群集并等待它完成，参数设置为true代表打印显示对应的进度
         boolean result = job.waitForCompletion(true);
