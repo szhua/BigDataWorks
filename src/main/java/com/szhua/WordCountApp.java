@@ -16,16 +16,15 @@ import java.net.URI;
 public class WordCountApp {
 
 
-    private static final String HDFS_PATH = "hdfs://home:8020";
-    private static final String HDFS_USER = "hadoop";
+    private static final String HDFS_PATH = "hdfs://hadoop000:8020";
+    private static final String HDFS_USER = "szhua";
 
     public static void main(String[] args) throws Exception{
-        String basePath = System.getProperty("user.dir");
-
-
+        //String basePath = System.getProperty("user.dir");
+        String basePath  ="";
         if(args==null||args.length==0) {
              args = new String[]{
-                     basePath+"/data/input.txt",
+                     basePath+"/wordcount/input.txt",
                      basePath+"/data/out/"
              };
          }
@@ -39,9 +38,9 @@ public class WordCountApp {
 
         Configuration configuration = new Configuration();
         // 指明HDFS的地址
-        //configuration.set("fs.defaultFS", HDFS_PATH);
-        //configuration.set("dfs.replication", "1");
-        //configuration.set("dfs.client.use.datanode.hostname","true");
+        configuration.set("fs.defaultFS", HDFS_PATH);
+        configuration.set("dfs.replication", "1");
+        configuration.set("dfs.client.use.datanode.hostname","true");
 
         // 创建一个Job
         Job job = Job.getInstance(configuration);
@@ -62,8 +61,8 @@ public class WordCountApp {
         job.setOutputValueClass(IntWritable.class);
 
         //如果输出目录已经存在，则必须先删除，否则重复运行程序时会抛出异常
-       // FileSystem fileSystem = FileSystem.get(new URI(HDFS_PATH), configuration, HDFS_USER);
-        FileSystem fileSystem = FileSystem.get(configuration);
+        FileSystem fileSystem = FileSystem.get(new URI(HDFS_PATH), configuration, HDFS_USER);
+        //FileSystem fileSystem = FileSystem.get(configuration);
         Path outputPath = new Path(args[1]);
         if (fileSystem.exists(outputPath)) {
             fileSystem.delete(outputPath, true);
@@ -73,7 +72,7 @@ public class WordCountApp {
       //  job.getConfiguration().set(FileOutputFormat.OUTDIR,outputPath.toString());
         FileOutputFormat.setOutputPath(job, outputPath);
 
-        job.setNumReduceTasks(2);
+        job.setNumReduceTasks(10);
 
         //将作业提交到群集并等待它完成，参数设置为true代表打印显示对应的进度
         boolean result = job.waitForCompletion(true);
@@ -159,6 +158,7 @@ public class WordCountApp {
  *
  *
  */
+
 
 
 

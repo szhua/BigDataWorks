@@ -1,0 +1,9 @@
+1	 yy.com	name1	 1
+2	 gifshow.com	name2	 2
+3	 ruozedata.com/1.html	name3	 3
+4	 ruozedata.com/2.html	name4	 4
+5	 ruozedata.com/3.html	name5	 5
+6	 ruozedata.com/4.html	name6	 6
+7	 dongqiudi.com	name7	 7
+8	 ruozedata.com	name8	 aaaaa
+9	 ruozedata.com	7

@@ -1,0 +1,5 @@
+12 张三 25 男 chinese 50
+12 张三 25 男 math 60
+12 张三 25 男 english 70
+12 李四 20 男 chinese 50
+12 李四 20 男 math 50
